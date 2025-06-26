@@ -1,0 +1,75 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [/admin/hashpass/003-targets/00-sunrise/sunrise.dic]
+[+] Analyzing 100% (18201/18201) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                        13: 82% (14970)
+[+]                         8: 05% (943)
+[+]                         7: 04% (810)
+[+]                        12: 02% (471)
+[+]                         9: 02% (406)
+[+]                        10: 01% (284)
+[+]                        11: 00% (155)
+[+]                         6: 00% (78)
+[+]                         5: 00% (35)
+[+]                         4: 00% (15)
+[+]                        14: 00% (10)
+[+]                        15: 00% (9)
+[+]                         3: 00% (8)
+[+]                        32: 00% (3)
+[+]                        19: 00% (3)
+[+]                        16: 00% (1)
+
+[*] Character-set:
+[+]                   numeric: 83% (15277)
+[+]                loweralpha: 07% (1395)
+[+]             loweralphanum: 04% (829)
+[+]             mixedalphanum: 02% (455)
+[+]                mixedalpha: 00% (82)
+[+]             upperalphanum: 00% (59)
+[+]                upperalpha: 00% (35)
+[+]      loweralphaspecialnum: 00% (30)
+[+]                       all: 00% (15)
+[+]         loweralphaspecial: 00% (14)
+[+]                specialnum: 00% (8)
+[+]         mixedalphaspecial: 00% (1)
+[+]      upperalphaspecialnum: 00% (1)
+
+[*] Password complexity:
+[+]                     digit: min(0) max(22)
+[+]                     lower: min(0) max(19)
+[+]                     upper: min(0) max(12)
+[+]                   special: min(0) max(3)
+
+[*] Simple Masks:
+[+]                     digit: 83% (15277)
+[+]                    string: 08% (1512)
+[+]               stringdigit: 03% (720)
+[+]                 othermask: 01% (293)
+[+]         stringdigitstring: 01% (286)
+[+]               digitstring: 00% (56)
+[+]          digitstringdigit: 00% (19)
+[+]        stringspecialdigit: 00% (15)
+[+]       stringspecialstring: 00% (7)
+[+]        stringdigitspecial: 00% (5)
+[+]             stringspecial: 00% (4)
+[+]              digitspecial: 00% (3)
+[+]        digitspecialstring: 00% (2)
+[+]        specialdigitstring: 00% (1)
+[+]        digitstringspecial: 00% (1)
+
+[*] Advanced Masks:
+[+] ?d?d?d?d?d?d?d?d?d?d?d?d?d: 82% (14947)
+[+]            ?l?l?l?l?l?l?l: 02% (487)
+[+]          ?l?l?l?l?l?l?l?l: 02% (432)
+[+]        ?l?l?l?l?l?l?l?l?l: 01% (194)
