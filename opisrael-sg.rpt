@@ -1,0 +1,83 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [/admin/hashpass/003-targets/00-opisrael/opisrael.dic]
+[+] Analyzing 100% (12830/12830) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                        14: 23% (3035)
+[+]                        32: 23% (3016)
+[+]                        10: 21% (2750)
+[+]                         6: 07% (948)
+[+]                         8: 06% (783)
+[+]                         9: 04% (632)
+[+]                         7: 04% (538)
+[+]                         4: 03% (397)
+[+]                         5: 02% (327)
+[+]                         3: 01% (196)
+[+]                        11: 00% (83)
+[+]                        12: 00% (58)
+[+]                        13: 00% (28)
+[+]                        16: 00% (10)
+[+]                        20: 00% (9)
+[+]                        17: 00% (7)
+[+]                        18: 00% (5)
+[+]                        15: 00% (4)
+[+]                        28: 00% (4)
+
+[*] Character-set:
+[+]                   numeric: 41% (5376)
+[+]             loweralphanum: 29% (3727)
+[+]             mixedalphanum: 20% (2668)
+[+]                loweralpha: 03% (412)
+[+]                   special: 02% (373)
+[+]                specialnum: 00% (124)
+[+]             upperalphanum: 00% (91)
+[+]                upperalpha: 00% (17)
+[+]         loweralphaspecial: 00% (14)
+[+]      loweralphaspecialnum: 00% (14)
+[+]                mixedalpha: 00% (9)
+[+]         mixedalphaspecial: 00% (2)
+[+]         upperalphaspecial: 00% (2)
+[+]                       all: 00% (1)
+
+[*] Password complexity:
+[+]                     digit: min(0) max(29)
+[+]                     lower: min(0) max(23)
+[+]                     upper: min(0) max(12)
+[+]                   special: min(0) max(20)
+
+[*] Simple Masks:
+[+]                     digit: 41% (5376)
+[+]                 othermask: 37% (4801)
+[+]               stringdigit: 10% (1378)
+[+]                    string: 03% (438)
+[+]                   special: 02% (373)
+[+]          digitstringdigit: 01% (210)
+[+]              specialdigit: 00% (75)
+[+]               digitstring: 00% (73)
+[+]         stringdigitstring: 00% (57)
+[+]              digitspecial: 00% (21)
+[+]        stringspecialdigit: 00% (8)
+[+]       stringspecialstring: 00% (8)
+[+]       specialdigitspecial: 00% (6)
+[+]         digitspecialdigit: 00% (6)
+
+[*] Advanced Masks:
+[+] ?d?d?d?d?d?d?d?d?d?d?d?d?d?d: 23% (3020)
+[+]              ?d?d?d?d?d?d: 04% (619)
+[+]          ?d?d?d?d?d?d?d?d: 02% (352)
+[+]            ?d?d?d?d?d?d?d: 02% (294)
+[+]        ?d?d?d?d?d?d?d?d?d: 02% (259)
+[+]                  ?d?d?d?d: 01% (247)
+[+]      ?d?d?d?d?d?d?d?d?d?d: 01% (234)
+[+]                ?d?d?d?d?d: 01% (174)
+[+]      ?d?l?u?l?d?u?u?l?d?u: 01% (159)
