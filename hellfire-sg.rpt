@@ -1,0 +1,97 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [/admin/hashpass/003-targets/00-hellfire/hellfire.dic]
+[+] Analyzing 100% (25305/25305) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                        10: 42% (10831)
+[+]                        29: 14% (3756)
+[+]                         8: 14% (3550)
+[+]                         9: 06% (1765)
+[+]                         6: 06% (1762)
+[+]                         7: 06% (1707)
+[+]                         1: 02% (675)
+[+]                        11: 01% (480)
+[+]                        12: 01% (276)
+[+]                        24: 00% (163)
+[+]                        13: 00% (87)
+[+]                        14: 00% (63)
+[+]                         5: 00% (52)
+[+]                        15: 00% (47)
+[+]                         4: 00% (35)
+[+]                        17: 00% (12)
+[+]                        16: 00% (11)
+[+]                        18: 00% (10)
+[+]                         3: 00% (7)
+[+]                         2: 00% (6)
+[+]                        36: 00% (3)
+[+]                        20: 00% (2)
+[+]                        50: 00% (2)
+[+]                        25: 00% (1)
+[+]                        47: 00% (1)
+[+]                        48: 00% (1)
+
+[*] Character-set:
+[+]             mixedalphanum: 43% (10965)
+[+]             loweralphanum: 22% (5613)
+[+]      loweralphaspecialnum: 15% (3890)
+[+]                loweralpha: 09% (2365)
+[+]                   numeric: 06% (1582)
+[+]             upperalphanum: 01% (289)
+[+]                mixedalpha: 00% (187)
+[+]      upperalphaspecialnum: 00% (177)
+[+]                       all: 00% (120)
+[+]                upperalpha: 00% (54)
+[+]         loweralphaspecial: 00% (46)
+[+]         mixedalphaspecial: 00% (8)
+[+]                   special: 00% (7)
+[+]                specialnum: 00% (2)
+
+[*] Password complexity:
+[+]                     digit: min(0) max(14)
+[+]                     lower: min(0) max(35)
+[+]                     upper: min(0) max(15)
+[+]                   special: min(0) max(26)
+
+[*] Simple Masks:
+[+]                 othermask: 40% (10285)
+[+]               stringdigit: 33% (8440)
+[+]                    string: 10% (2606)
+[+]                     digit: 06% (1582)
+[+]          digitstringdigit: 04% (1153)
+[+]         stringdigitstring: 02% (709)
+[+]               digitstring: 01% (314)
+[+]        stringspecialdigit: 00% (76)
+[+]        stringdigitspecial: 00% (73)
+[+]       stringspecialstring: 00% (29)
+[+]             stringspecial: 00% (14)
+[+]                   special: 00% (7)
+[+]        specialstringdigit: 00% (5)
+[+]        digitstringspecial: 00% (3)
+[+]      specialstringspecial: 00% (2)
+[+]        specialdigitstring: 00% (2)
+[+]             specialstring: 00% (2)
+[+]              specialdigit: 00% (1)
+[+]       specialdigitspecial: 00% (1)
+[+]        digitspecialstring: 00% (1)
+
+[*] Advanced Masks:
+[+] ?d?d?d?s?d?d?d?s?d?d?d?d?l?l?l?l?l?s?l?l?l?l?l?l?l?s?l?l?l: 14% (3756)
+[+]                        ?d: 02% (673)
+[+]              ?l?l?l?l?l?l: 02% (624)
+[+]          ?l?l?l?l?l?l?l?l: 02% (615)
+[+]            ?l?l?l?l?l?l?l: 02% (561)
+[+]          ?l?l?l?l?l?l?d?d: 02% (509)
+[+]              ?d?d?d?d?d?d: 01% (379)
+[+]      ?l?l?l?l?l?l?d?d?d?d: 01% (303)
+[+]          ?l?l?l?l?l?l?l?d: 01% (274)
+[+]          ?l?l?l?l?l?d?d?d: 01% (264)
