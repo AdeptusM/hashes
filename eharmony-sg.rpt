@@ -1,0 +1,109 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [/admin/hashpass/003-targets/00-eharmony/eharmony.dic]
+[+] Analyzing 100% (1485591/1485591) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                         7: 18% (280480)
+[+]                         6: 17% (254003)
+[+]                         8: 17% (252892)
+[+]                         9: 14% (212305)
+[+]                        10: 13% (197445)
+[+]                        11: 07% (104034)
+[+]                        12: 04% (67403)
+[+]                         5: 03% (46822)
+[+]                        13: 02% (38503)
+[+]                        14: 01% (26999)
+[+]                        15: 00% (1972)
+[+]                        16: 00% (1338)
+[+]                        17: 00% (581)
+[+]                        18: 00% (339)
+[+]                        19: 00% (144)
+[+]                        20: 00% (115)
+[+]                        21: 00% (83)
+[+]                        22: 00% (56)
+[+]                        23: 00% (37)
+[+]                        24: 00% (15)
+[+]                        25: 00% (10)
+[+]                        26: 00% (5)
+[+]                        27: 00% (4)
+[+]                        28: 00% (2)
+[+]                        29: 00% (2)
+[+]                        31: 00% (1)
+[+]                        34: 00% (1)
+
+[*] Character-set:
+[+]             upperalphanum: 60% (899114)
+[+]                upperalpha: 37% (563185)
+[+]                   numeric: 01% (19940)
+[+]      upperalphaspecialnum: 00% (1636)
+[+]         upperalphaspecial: 00% (1610)
+[+]                specialnum: 00% (104)
+[+]                   special: 00% (2)
+
+[*] Password complexity:
+[+]                     digit: min(0) max(31)
+[+]                     lower: min(0) max(0)
+[+]                     upper: min(0) max(30)
+[+]                   special: min(0) max(12)
+
+[*] Simple Masks:
+[+]               stringdigit: 42% (627578)
+[+]                    string: 37% (563185)
+[+]         stringdigitstring: 06% (99016)
+[+]               digitstring: 05% (86352)
+[+]                 othermask: 04% (62624)
+[+]          digitstringdigit: 01% (25181)
+[+]                     digit: 01% (19940)
+[+]       stringspecialstring: 00% (798)
+[+]        stringspecialdigit: 00% (484)
+[+]             stringspecial: 00% (144)
+[+]        stringdigitspecial: 00% (91)
+[+]         digitspecialdigit: 00% (58)
+[+]        digitspecialstring: 00% (52)
+[+]        digitstringspecial: 00% (27)
+[+]             specialstring: 00% (15)
+[+]        specialdigitstring: 00% (10)
+[+]        specialstringdigit: 00% (10)
+[+]      specialstringspecial: 00% (10)
+[+]              digitspecial: 00% (8)
+[+]              specialdigit: 00% (4)
+[+]                   special: 00% (2)
+[+]       specialdigitspecial: 00% (2)
+
+[*] Advanced Masks:
+[+]          ?u?u?u?u?u?u?u?u: 08% (122144)
+[+]              ?u?u?u?u?u?u: 06% (101394)
+[+]            ?u?u?u?u?u?u?u: 05% (88686)
+[+]        ?u?u?u?u?u?u?u?u?u: 04% (66862)
+[+]      ?u?u?u?u?u?u?u?u?u?u: 04% (62319)
+[+]            ?u?u?u?d?d?d?d: 03% (52709)
+[+]    ?u?u?u?u?u?u?u?u?u?u?u: 02% (39966)
+[+]              ?u?u?u?u?d?d: 02% (38788)
+[+]            ?u?u?u?u?u?d?d: 02% (32970)
+[+]              ?u?u?d?d?d?d: 02% (30246)
+[+]          ?u?u?u?u?d?d?d?d: 01% (28754)
+[+]  ?u?u?u?u?u?u?u?u?u?u?u?u: 01% (27173)
+[+]          ?u?u?u?u?u?u?d?d: 01% (27160)
+[+]            ?u?u?u?u?u?u?d: 01% (26213)
+[+]                ?u?u?u?u?u: 01% (25559)
+[+]      ?u?u?u?u?u?u?u?u?d?d: 01% (25310)
+[+]        ?u?u?u?u?u?u?u?d?d: 01% (25149)
+[+]        ?u?u?u?u?u?d?d?d?d: 01% (23539)
+[+]        ?u?u?u?u?u?u?u?u?d: 01% (23516)
+[+]              ?u?u?u?d?d?d: 01% (22572)
+[+]      ?u?u?u?u?u?u?u?u?u?d: 01% (21794)
+[+]            ?u?u?u?u?d?d?d: 01% (21172)
+[+]      ?u?u?u?u?u?u?d?d?d?d: 01% (17246)
+[+]              ?u?u?u?u?u?d: 01% (16584)
+[+]          ?u?u?u?u?u?u?u?d: 01% (16056)
+[+] ?u?u?u?u?u?u?u?u?u?u?u?u?u: 01% (15734)
